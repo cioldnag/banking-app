@@ -1,9 +1,0 @@
-libellé;Opération;Place;Date;Qté;Prix d'éxé;Montant brut;Courtage/Prélèvement;Montant net;Devise;
-TOTALENERGIES;Achat Comptant;Euronext Paris;23/01/2025;8.0;56.23;-449.84;-1.95;-451.79;EUR;
-TOTALENERGIES;TAXE TRANSAC FINAN;Euronext Paris;23/01/2025;8.0;0.0;-1.35;0.0;-1.35;EUR;
-SANOFI;Achat Comptant;Euronext Paris;23/01/2025;6.0;100.8;-604.8;-3.9;-608.7;EUR;
-SANOFI;TAXE TRANSAC FINAN;Euronext Paris;23/01/2025;6.0;0.0;-1.81;0.0;-1.81;EUR;
-BONDUELLE;Encaissement coupons intérêt/dividende;Euronext Paris;09/01/2025;90.0;0.0;15.69;0.0;15.69;EUR;
-BONDUELLE;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;07/01/2025;90.0;0.0;18.0;0.0;18.0;EUR;
-TOTALENERGIES;Encaissement coupons intérêt/dividende;Euronext Paris;06/01/2025;41.0;0.0;28.24;0.0;28.24;EUR;
-TOTALENERGIES;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;02/01/2025;41.0;0.0;32.39;0.0;32.39;EUR;

@@ -1,7 +1,0 @@
-libellé;Opération;Place;Date;Qté;Prix d'éxé;Montant brut;Courtage/Prélèvement;Montant net;Devise;
-NOKIA;Encaissement coupons intérêt/dividende;Euronext Paris;03/08/2023;195.0;0.0;3.8;0.0;3.8;EUR;
-SCHNEIDER ELECTRIC;Achat Comptant;Euronext Paris;31/07/2023;3.0;161.4;-484.2;-1.95;-486.15;EUR;
-SCHNEIDER ELECTRIC;TAXE TRANSAC FINAN;Euronext Paris;31/07/2023;3.0;0.0;-1.45;0.0;-1.45;EUR;
-NOKIA;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;24/07/2023;195.0;0.0;3.8;0.0;3.8;EUR;
-ALSTOM;OST de création de coupons - Détachement coupon Intérêt/divid;Euronext Paris;17/07/2023;70.0;0.0;17.5;0.0;17.5;EUR;
-ALSTOM DVOP 2023  ;OST de création de coupons - Paiement en titres;null;17/07/2023;70.0;0.0;0.0;0.0;0.0;EUR;
