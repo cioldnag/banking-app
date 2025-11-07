@@ -1,0 +1,64 @@
+event,car_model,price,km,date
+odometer,V40,,23000.0,01.02.2019
+odometer,V40,,55567.0,15.02.2020
+odometer,V40,,73302.0,27.11.2020
+odometer,V40,,74146.0,13.12.2020
+odometer,V40,,75489.0,29.12.2020
+odometer,V40,,75547.0,01.01.2021
+odometer,V40,,105440.0,07.12.2021
+odometer,V40,,112002.0,12.04.2022
+odometer,V40,,112651.0,29.04.2022
+odometer,V40,,115067.0,08.06.2022
+odometer,V40,,115104.0,09.06.2022
+odometer,V40,,115141.0,12.06.2022
+odometer,V40,,115950.0,28.06.2022
+odometer,V40,,115957.0,03.07.2022
+odometer,V40,,118180.0,15.08.2022
+odometer,V40,,120120.0,21.09.2022
+odometer,V40,,121194.0,16.10.2022
+odometer,V40,,121694.0,01.11.2022
+odometer,V40,,122828.0,25.11.2022
+odometer,V40,,125858.0,10.01.2023
+odometer,V40,,127115.0,09.02.2023
+odometer,V40,,127155.0,11.02.2023
+odometer,V40,,127477.0,19.02.2023
+odometer,V40,,129909.0,26.03.2023
+odometer,V40,,130371.0,15.04.2023
+odometer,V40,,131093.0,29.04.2023
+odometer,V40,,144723.0,13.01.2024
+odometer,V40,,159297.0,02.08.2024
+odometer,V40,,173050.0,23.01.2025
+repair - windshield,V40,883.73,,12.04.2024
+service - parts,V40,41.36,,11.01.2020
+service - parts,V40,55.22,,29.11.2020
+service - parts,V40,49.3,,16.01.2020
+service - parts,V40,55.54,,15.01.2020
+service - garage,V40,94.61,,17.03.2020
+hauptuntersuchung,V40,142.0,,10.03.2020
+service - garage,V40,296.84,,03.03.2022
+repair - radlager/bremse,V40,410.16,,03.03.2022
+reifen,V40,212.6,,03.03.2022
+repair - antriebswelle,V40,863.16,,06.04.2023
+service - garage,V40,232.05,,01.09.2023
+repair - bremse,V40,320.05,,07.11.2024
+service - garage,V40,216.16,,21.06.2024
+repair - bremse,V40,306.26,,21.06.2024
+repair - zahnriemen,V40,1068.72,,02.08.2024
+feder,V40,229.57,,06.01.2025
+reifen,V40,109.12,,22.02.2020
+reifen,V40,220.0,,26.09.2022
+car insurance,V40,744.14,,05.02.2019
+car insurance,V40,332.97,,05.02.2020
+car insurance,V40,230.62,,10.02.2021
+car insurance,V40,224.7,,09.02.2022
+car insurance,V40,226.5,,08.02.2023
+car insurance,V40,234.55,,08.02.2024
+car tax,V40,190.0,,05.02.2019
+car tax,V40,190.0,,05.02.2020
+car tax,V40,190.0,,05.02.2021
+car tax,V40,190.0,,05.02.2022
+car tax,V40,190.0,,05.02.2023
+car tax,V40,190.0,,05.02.2024
+car cost,V40,17500.0,,02.02.2019
+car insurance,V40,254.16,,10.02.2025
+odometer,V40,,174200.0,11.02.2025

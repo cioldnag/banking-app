@@ -1,0 +1,5 @@
+libellé;Opération;Place;Date;Qté;Prix d'éxé;Montant brut;Courtage/Prélèvement;Montant net;Devise;
+VINCI;Encaissement coupons intérêt/dividende;Euronext Paris;16/11/2023;13.0;0.0;11.9;0.0;11.9;EUR;
+VINCI;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;14/11/2023;13.0;0.0;13.65;0.0;13.65;EUR;
+NOKIA;Encaissement coupons intérêt/dividende;Euronext Paris;02/11/2023;195.0;0.0;3.8;0.0;3.8;EUR;
+NOKIA;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;23/10/2023;195.0;0.0;3.8;0.0;3.8;EUR;

@@ -1,0 +1,34 @@
+category,description,amount
+communication,Vodafone line,-12.0
+communication,Orange line,-7.0
+communication,Inexio,-49.95
+convenience goods,drugstore,-30.0
+convenience goods,DM,-100.0
+convenience goods,food,-600.0
+education,day nursery,-159.0
+gifts/donations,donation,-113.0
+gifts/donations,gifts,-50.0
+housing,bank loan,-645.96
+housing,running cost,-287.0
+income,food voucher,310.0
+income,salary 1,5215.0
+income,salary 2,2230.0
+income,extra salary 1,300.0
+income,neighbors,20.0
+income,investement income,271.2
+income,Kindergeld,307.0
+income,extra salary 2,165.0
+insurance,Europa Go,-27.5
+insurance,Envivas + Gothaer,-6.4
+insurance,Admiral,-18.9
+leisure,holidays,-300.0
+leisure,Spotify,-9.9
+leisure,Saarländischer Rundfunk,-18.36
+mobility,service Polo,-50.0
+mobility,diesel,-100.0
+mobility,Kfz-Steuer Polo,-4.0
+mobility,Kfz-Steuer V40,-16.0
+mobility,benzin,-160.0
+mobility,service V40,-50.0
+mobility,other for cars,-40.0
+other,hairdresser,-20.0

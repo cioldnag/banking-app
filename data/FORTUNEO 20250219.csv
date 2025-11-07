@@ -1,0 +1,7 @@
+libellé;Opération;Place;Date;Qté;Prix d'éxé;Montant brut;Courtage/Prélèvement;Montant net;Devise;
+NOKIA;Encaissement coupons intérêt/dividende;Euronext Paris;13/02/2025;195.0;0.0;3.8;0.0;3.8;EUR;
+NOKIA;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;03/02/2025;195.0;0.0;3.8;0.0;3.8;EUR;
+TOTALENERGIES;TAXE TRANSAC FINAN;Euronext Paris;23/01/2025;8.0;0.0;-1.35;0.0;-1.35;EUR;
+TOTALENERGIES;Achat Comptant;Euronext Paris;23/01/2025;8.0;56.23;-449.84;-1.95;-451.79;EUR;
+SANOFI;Achat Comptant;Euronext Paris;23/01/2025;6.0;100.8;-604.8;-3.9;-608.7;EUR;
+SANOFI;TAXE TRANSAC FINAN;Euronext Paris;23/01/2025;6.0;0.0;-1.81;0.0;-1.81;EUR;

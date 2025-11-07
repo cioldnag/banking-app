@@ -1,0 +1,7 @@
+libellé;Opération;Place;Date;Qté;Prix d'éxé;Montant brut;Courtage/Prélèvement;Montant net;Devise;
+NOKIA;Encaissement coupons intérêt/dividende;Euronext Paris;08/02/2024;195.0;0.0;3.8;0.0;3.8;EUR;
+NOKIA;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;29/01/2024;195.0;0.0;3.8;0.0;3.8;EUR;
+ENGIE;Achat Comptant;Euronext Paris;24/01/2024;32.0;15.238;-487.62;-1.95;-489.57;EUR;
+ENGIE;TAXE TRANSAC FINAN;Euronext Paris;24/01/2024;32.0;0.0;-1.46;0.0;-1.46;EUR;
+MICHELIN;TAXE TRANSAC FINAN;Euronext Paris;24/01/2024;16.0;0.0;-1.49;0.0;-1.49;EUR;
+MICHELIN;Achat Comptant;Euronext Paris;24/01/2024;16.0;31.0;-496.0;-1.95;-497.95;EUR;

@@ -1,0 +1,6 @@
+libellé;Opération;Place;Date;Qté;Prix d'éxé;Montant brut;Courtage/Prélèvement;Montant net;Devise;
+VINCI;Encaissement coupons intérêt/dividende;Euronext Paris;17/10/2024;13.0;0.0;11.9;0.0;11.9;EUR;
+VINCI;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;15/10/2024;13.0;0.0;13.65;0.0;13.65;EUR;
+SES;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;15/10/2024;84.0;0.0;17.85;0.0;17.85;EUR;
+TOTALENERGIES;Encaissement coupons intérêt/dividende;Euronext Paris;01/10/2024;41.0;0.0;28.24;0.0;28.24;EUR;
+TOTALENERGIES;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;25/09/2024;41.0;0.0;32.39;0.0;32.39;EUR;

@@ -1,0 +1,9 @@
+libellé;Opération;Place;Date;Qté;Prix d'éxé;Montant brut;Courtage/Prélèvement;Montant net;Devise;
+ENGIE;Achat Comptant;Euronext Paris;24/01/2024;32.0;15.238;-487.62;-1.95;-489.57;EUR;
+ENGIE;TAXE TRANSAC FINAN;Euronext Paris;24/01/2024;32.0;0.0;-1.46;0.0;-1.46;EUR;
+MICHELIN;Achat Comptant;Euronext Paris;24/01/2024;16.0;31.0;-496.0;-1.95;-497.95;EUR;
+MICHELIN;TAXE TRANSAC FINAN;Euronext Paris;24/01/2024;16.0;0.0;-1.49;0.0;-1.49;EUR;
+TOTALENERGIES;Encaissement coupons intérêt/dividende;Euronext Paris;12/01/2024;41.0;0.0;26.45;0.0;26.45;EUR;
+BONDUELLE;Encaissement coupons intérêt/dividende;Euronext Paris;04/01/2024;90.0;0.0;19.62;0.0;19.62;EUR;
+BONDUELLE;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;02/01/2024;90.0;0.0;22.5;0.0;22.5;EUR;
+TOTALENERGIES;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;02/01/2024;41.0;0.0;30.34;0.0;30.34;EUR;

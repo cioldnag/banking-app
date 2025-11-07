@@ -1,0 +1,7 @@
+libellé;Opération;Place;Date;Qté;Prix d'éxé;Montant brut;Courtage/Prélèvement;Montant net;Devise;
+SOCIETE GENERALE;Achat Comptant;Euronext Paris;05/10/2022;12.0;21.11;-253.32;-1.95;-255.27;EUR;
+SOCIETE GENERALE;TAXE TRANSAC FINAN;Euronext Paris;05/10/2022;12.0;0.0;-0.76;0.0;-0.76;EUR;
+TOTALENERGIES;Encaissement coupons intérêt/dividende;Euronext Paris;03/10/2022;41.0;0.0;24.66;0.0;24.66;EUR;
+VEOLIA ENVIRON.;Achat Comptant;Euronext Paris;30/09/2022;15.0;19.5996;-293.99;-1.95;-295.94;EUR;
+VEOLIA ENVIRON.;TAXE TRANSAC FINAN;Euronext Paris;30/09/2022;15.0;0.0;-0.88;0.0;-0.88;EUR;
+TOTALENERGIES;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;21/09/2022;41.0;0.0;28.29;0.0;28.29;EUR;

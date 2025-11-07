@@ -1,0 +1,14 @@
+libellé;Opération;Place;Date;Qté;Prix d'éxé;Montant brut;Courtage/Prélèvement;Montant net;Devise;
+SOCIETE GENERALE;Achat Comptant;Euronext Paris;02/12/2022;21.0;23.2;-487.2;-1.95;-489.15;EUR;
+SOCIETE GENERALE;TAXE TRANSAC FINAN;Euronext Paris;02/12/2022;21.0;0.0;-1.46;0.0;-1.46;EUR;
+VINCI;Encaissement coupons intérêt/dividende;Euronext Paris;17/11/2022;13.0;0.0;11.33;0.0;11.33;EUR;
+VINCI;ANNUL. OST de création de coupons - Détachement coupon optionnel;Euronext Paris;15/11/2022;13.0;0.0;-13.0;0.0;-13.0;EUR;
+VINCI;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;15/11/2022;13.0;0.0;13.0;0.0;13.0;EUR;
+VINCI;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;15/11/2022;13.0;0.0;13.0;0.0;13.0;EUR;
+NOKIA;Encaissement coupons intérêt/dividende;Euronext Paris;03/11/2022;195.0;0.0;2.53;0.0;2.53;EUR;
+DANONE;Achat Comptant;Euronext Paris;01/11/2022;9.0;50.42;-453.78;-1.95;-455.73;EUR;
+DANONE;TAXE TRANSAC FINAN;Euronext Paris;01/11/2022;9.0;0.0;-1.36;0.0;-1.36;EUR;
+NOKIA;OST de création de coupons - Détachement coupon optionnel;Euronext Paris;24/10/2022;195.0;0.0;2.54;0.0;2.54;EUR;
+SOCIETE GENERALE;TAXE TRANSAC FINAN;Euronext Paris;05/10/2022;12.0;0.0;-0.76;0.0;-0.76;EUR;
+SOCIETE GENERALE;Achat Comptant;Euronext Paris;05/10/2022;12.0;21.11;-253.32;-1.95;-255.27;EUR;
+TOTALENERGIES;Encaissement coupons intérêt/dividende;Euronext Paris;03/10/2022;41.0;0.0;24.66;0.0;24.66;EUR;
